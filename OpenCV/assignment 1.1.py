@@ -7,3 +7,4 @@ cv2.imshow('black and white image',bnw)
 cv2.imshow('grayscale image',grayimg)
 cv2.imshow('original image',img)
 cv2.waitKey(0)
+
